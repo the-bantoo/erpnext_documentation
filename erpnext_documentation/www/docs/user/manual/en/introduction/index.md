@@ -24,8 +24,8 @@ So even today, small businesses continue to struggle to keep things organized. T
 
 ERPNext addresses some fundamental problems SMEs struggle with when managing their resources:
 
-- **Affordability**: It is a Free and Open Source Software, freely available to download and install.
-- **Completeness**: All necessary modules are available. [View full list](https://erpnext.com/docs/user/manual/en "ERPNext User Manual").
+- **Affordability**: It is a designed to meet your budget, implement what you are ready to.
+- **Completeness**: All necessary modules are available. [View full list](https://docs.thebantoo.com/docs/user/manual/en "ERPNext User Manual").
 - **Customization**: It is easy to add fields, or add more features.
 - **Efficiency**: Computing requirements are relatively low (cheaper to host and manage).
 - **Wholesomeness**: A single system and database that allows multiple users to record transactions or extract data simultaneously.
