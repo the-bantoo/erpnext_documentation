@@ -70,7 +70,6 @@ Here is a video to get you started:
 You can also checkout the following topics:
 
 1. [Do I Need an ERP?](/docs/user/manual/en/introduction/do-i-need-an-erp)
-- [Open Source](/docs/user/manual/en/introduction/open-source)
 - [Getting Started with ERPNext](/docs/user/manual/en/introduction/getting-started-with-erpnext)
 - [The Champion](/docs/user/manual/en/introduction/the-champion)
 - [Implementation Strategy](/docs/user/manual/en/introduction/implementation-strategy)
